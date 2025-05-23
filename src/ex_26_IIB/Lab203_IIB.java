@@ -4,14 +4,14 @@ public class Lab203_IIB {
 
     // ```
     //IIB
-    //Instance initialization Block == IIB
+    //Instance initialization Block == IIB--new featur added
     //I will be executed when Object is created.
     //```
 
     public static void main(String[] args) {
-//        A a;
+    //A a;
         new A();
-        A a1 = new A();
+       // A a1 = new A();
     }
 
 

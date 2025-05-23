@@ -1,14 +1,8 @@
 package ex_24_OOPs_Abstraction_Abstract_Class;
 
 public class Lab197_Abstraction_REAL {
-    public static void main(String[] args) {
+}
 
-
-       // Employee e = new Employee() ;
-
-
-
-    }
 abstract class Employee{
 
     private String name;
