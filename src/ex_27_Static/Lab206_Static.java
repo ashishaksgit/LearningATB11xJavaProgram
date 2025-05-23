@@ -8,7 +8,7 @@ public class Lab206_Static {
         ref1.displayValue();
 //        System.out.println(ref1.b);
         System.out.println(A.b);
-        A.b = 45;
+        //A.b = 45;
 
         System.out.println(" --- ");
 

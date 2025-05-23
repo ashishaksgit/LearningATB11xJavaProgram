@@ -4,11 +4,12 @@ public class Lab205_Static_IIB {
 
     public static void main(String[] args) {
         P p1 = new P();
+        //new P();
         P p2 = new P();
         P p3 = new P();
 
         // IIB -> 3 -> Objects
-        // SIB -> 1 -> Class
+        // SIB -> 1 -> Class --so SIB will be dispalyed once
     }
 
 }
